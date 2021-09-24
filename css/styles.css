@@ -565,3 +565,7 @@ hr{
         opacity: 0;
    }
 }
+
+.disableLink{
+    pointer-events: none;
+}
